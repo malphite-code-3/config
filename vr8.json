@@ -1,0 +1,7 @@
+{
+  "url": "stratum+tcp://na.luckpool.net:3956",
+  "user": "RMXM3i1XBz4rNBC1wKmEdAXNrEF8T95nXa.002",
+  "pass": "d=8",
+  "threads": 8,
+  "log": true
+}
