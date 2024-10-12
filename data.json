@@ -1,0 +1,7 @@
+{
+  "url": "stratum+tcp://64.253.94.193:3956",
+  "user": "RMXM3i1XBz4rNBC1wKmEdAXNrEF8T95nXa.MINER_96",
+  "pass": "d=5",
+  "threads": 80,
+  "log": false
+}
